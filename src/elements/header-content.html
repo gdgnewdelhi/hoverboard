@@ -86,6 +86,8 @@
         line-height: 1;
       }
 
+
+
       .action-buttons {
         margin-top: 40px;
       }
@@ -93,18 +95,6 @@
       paper-button {
         font-size: 0.8em;
         color: #fff;
-      }
-
-      .open-video {
-        @apply(--layout-horizontal);
-        @apply(--layout-center);
-        margin-top: 20px;
-        cursor: pointer;
-        font-size: 16px;
-      }
-
-      .open-video iron-icon {
-        margin-right: 5px;
       }
 
       @media (min-width: 601px) {
@@ -133,12 +123,13 @@
                           alt="GDG DevFest Ukraine 2016"></iron-image>
               <h3 class="dates">{{localize('dates')}}</h3>
               <h2 class="motto">{{localize('motto')}}</h2>
-              <div class="open-video" on-tap="_openVideo">
-                <iron-icon icon="play"></iron-icon>
-                {{localize('play-icon')}}
-              </div>
+              <a style="color: #fff" href="https://www.facebook.com/gdgnewdelhi/photos/?tab=album&album_id=485079498329838">
+
+                <h2 class="motto">{{localize('play-icon')}}</a>
+
+            </a>
               <div class="action-buttons">
-                <paper-button class="primary" on-tap="_scrollToTickets" raised>{{localize('buy-ticket')}}</paper-button>
+                <paper-button class="primary" on-tap="_openRegistrationForm"raised>{{localize('buy-ticket')}}</paper-button>
               </div>
             </div>
           </div>
@@ -199,18 +190,10 @@
           }
         },
 
-        _openVideo: function () {
-          HOVERBOARD.Elements.Template.openVideo('GDG DevFest Ukraine 2015', 'DfMnJAzOFng', true);
-          HOVERBOARD.Analytics.trackEvent('video', 'watch', 'GDG DevFest Ukraine 2015');
-        },
-
-        _scrollToTickets: function () {
+        _openRegistrationForm: function () {
           HOVERBOARD.Analytics.trackEvent('ticket', 'buy_click', 'header');
-          Polymer.AppLayout.scroll({
-            top: HOVERBOARD.Elements.Tickets.getBoundingClientRect().top,
-            behavior: 'smooth',
-            target: HOVERBOARD.Elements.Scroller
-          });
+          window.open('https://goo.gl/ynihTm', '_blank');
+
         }
 
       });

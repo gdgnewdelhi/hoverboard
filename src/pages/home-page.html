@@ -9,7 +9,6 @@
 <link rel="import" href="../elements/featured-videos.html">
 <link rel="import" href="../elements/call-to-action.html">
 <link rel="import" href="../elements/about-block.html">
-<link rel="import" href="../elements/tickets-block.html">
 <link rel="import" href="../elements/latest-posts.html">
 <link rel="import" href="../elements/footer-block.html">
 <link rel="import" href="../elements/photo-block.html">
@@ -23,11 +22,9 @@
 
     <statistics-block app="{{app}}" cascaded></statistics-block>
     <featured-people app="{{app}}" people="{{people}}" cascaded></featured-people>
-    <featured-videos app="{{app}}" cascaded></featured-videos>
     <call-to-action app="{{app}}" cascaded></call-to-action>
     <about-block app="{{app}}" cascaded></about-block>
     <photo-block app="{{app}}" cascaded></photo-block>
-    <tickets-block app="{{app}}" cascaded></tickets-block>
     <latest-posts app="{{app}}" posts="{{posts}}" cascaded></latest-posts>
     <social-feed app="{{app}}" cascaded></social-feed>
     <map-block app="{{app}}" selected="{{selected}}" cascaded></map-block>
@@ -62,9 +59,6 @@
             type: Array
           },
 
-          videos: {
-            type: Array
-          },
 
           animationConfig: {
             type: Object,
