@@ -139,7 +139,7 @@
       "caption": "sessions"
     },
     {
-      "counter": 3,
+      "counter": 4,
       "caption": "tracks"
     }
   ],
@@ -176,8 +176,8 @@
     "apiKey": "",
     "link": "https://www.facebook.com/codingninjas",
     "pointer": {
-      "latitude": 28.6975906,
-      "longitude": 77.1405253,
+      "latitude": 28.6975018,
+      "longitude": 77.1405608,
       "zoom": 18
     },
     "mapCenter": {
@@ -187,7 +187,8 @@
     "images": [
       "/images/backgrounds/location_1.jpg",
       "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
+      "/images/backgrounds/location_3.jpg",
+      "/images/backgrounds/location_4.jpg"
     ]
   }
 }

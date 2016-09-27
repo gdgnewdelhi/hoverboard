@@ -94,7 +94,7 @@
     window.HOVERBOARD = window.HOVERBOARD || {};
 
     //TODO
-    window.ENV = 'dev';
+    window.ENV = 'prod';
     window.PREFIX = '/';
 
     // setup Polymer options
@@ -109,7 +109,7 @@
     // Creates the tracker.
     ga('create', {
       // TODO: Change analytics
-      trackingId: UA-57414066-5,
+      trackingId: 'UA-57414066-5',
       cookieDomain: 'auto',
       cookiePath: window.ENV !== 'dev' ? window.PREFIX || '/' : null,
       siteSpeedSampleRate: 10 // 10% of users.

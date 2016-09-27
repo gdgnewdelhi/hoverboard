@@ -35,19 +35,9 @@
             "name": "Google+"
           },
           {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/sophie.huts.7",
-            "name": "Facebook"
-          },
-          {
             "icon": "twitter",
             "link": "https://twitter.com/nisrulz",
             "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://o.zasadnyy.com/",
-            "name": "Blog"
           }
         ],
         "title": "Organizer"
@@ -61,64 +51,35 @@
         "name": "Sahib Sethi",
         "photoUrl": "/images/people/sahib.jpg",
         "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+DmytroDanylyk",
-            "name": "Google+"
-          },
+
           {
             "icon": "facebook",
-            "link": "https://www.facebook.com/sahib.sethi30",
+            "link": "https://www.facebook.com/sahib.sethi.98",
             "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/idvoretskyi",
-            "name": "Twitter"
           }
         ],
         "title": "Organizer"
       },
       {
         "name": "Manan Arya",
-        "photoUrl": "/images/people/dmytro_danylyk.jpg",
+        "photoUrl": "/images/people/mananarya.jpg",
         "socials": [
           {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+DmytroDanylyk",
-            "name": "Google+"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/dmytrodanylyk",
-            "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://www.dmytrodanylyk.com/#/about",
-            "name": "Website"
+            "icon": "facebook",
+            "link": "https://www.facebook.com/mananarya22",
+            "name": "Facebook"
           }
         ],
         "title": "Organizer"
       },
       {
-        "name": "Ankita",
+        "name": "Ankita Khurana",
         "photoUrl": "/images/people/ankita.jpg",
         "socials": [
           {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+DmytroDanylyk",
-            "name": "Google+"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/dmytrodanylyk",
-            "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://www.dmytrodanylyk.com/#/about",
-            "name": "Website"
+            "icon": "facenook",
+            "link": "https://www.facebook.com/ankitakhurana25?",
+            "name": "Facebook"
           }
         ],
         "title": "Organizer"
