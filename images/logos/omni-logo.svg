@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="835px" height="209px" viewBox="0 0 835 209" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" transform="translate(1.000000, 1.000000)">
+            <g id="logo_blue_white-copy">
+                <polygon id="Fill-1" fill="#FFFFFF" points="199.5865 137.5197 162.9695 188.2687 117.9405 206.1737 66.4675 198.5297 19.1825 162.8317 0.5605 104.2097 14.0195 52.3587 44.6415 19.0767 104.6335 0.5337 141.8525 6.0927 186.7445 45.0447 206.6555 100.4007"></polygon>
+                <g id="logo" stroke="#45CDF0" stroke-width="3">
+                    <path d="M44.6412,19.0768 L62.8052,43.2438" id="Fill-2"></path>
+                    <path d="M44.6412,19.0768 L62.8052,43.2438" id="Stroke-3"></path>
+                    <path d="M62.8057,43.2437 L103.5627,1.7627" id="Fill-5"></path>
+                    <path d="M62.8057,43.2437 L103.5627,1.7627" id="Stroke-6"></path>
+                    <path d="M45.1827,20.778 L15.8657,103.671" id="Fill-8"></path>
+                    <path d="M45.1827,20.778 L15.8657,103.671" id="Stroke-9"></path>
+                    <path d="M15.8658,103.6709 L19.1818,162.8319" id="Fill-11"></path>
+                    <path d="M15.8658,103.6709 L19.1818,162.8319" id="Stroke-12"></path>
+                    <path d="M15.8658,103.6709 L63.1558,43.2439" id="Fill-14"></path>
+                    <path d="M15.8658,103.6709 L63.1558,43.2439" id="Stroke-15"></path>
+                    <path d="M59.1392,137.5363 L103.8132,103.6713" id="Fill-17"></path>
+                    <path d="M59.1392,137.5363 L103.8132,103.6713" id="Stroke-18"></path>
+                    <path d="M103.8135,103.6709 L62.8055,43.2439" id="Fill-20"></path>
+                    <path d="M103.8135,103.6709 L62.8055,43.2439" id="Stroke-21"></path>
+                    <path d="M62.8057,43.2437 L120.7387,55.8127" id="Fill-23"></path>
+                    <path d="M62.8057,43.2437 L120.7387,55.8127" id="Stroke-24"></path>
+                    <path d="M120.7388,55.8131 L132.6088,19.2431" id="Fill-26"></path>
+                    <path d="M120.7388,55.8131 L132.6088,19.2431" id="Stroke-27"></path>
+                    <path d="M132.609,19.2433 L62.806,43.2433" id="Fill-29"></path>
+                    <path d="M132.609,19.2433 L62.806,43.2433" id="Stroke-30"></path>
+                    <path d="M132.609,19.2433 L171.49,55.8133" id="Fill-32"></path>
+                    <path d="M132.609,19.2433 L171.49,55.8133" id="Stroke-33"></path>
+                    <path d="M171.4898,55.8131 L206.6558,100.4001" id="Fill-35"></path>
+                    <path d="M171.4898,55.8131 L206.6558,100.4001" id="Stroke-36"></path>
+                    <path d="M206.6558,100.4005 L146.5548,161.9845" id="Fill-38"></path>
+                    <path d="M206.6558,100.4005 L146.5548,161.9845" id="Stroke-39"></path>
+                    <path d="M146.5552,161.9845 L162.9692,188.2685" id="Fill-41"></path>
+                    <path d="M146.5552,161.9845 L162.9692,188.2685" id="Stroke-42"></path>
+                    <path d="M146.5552,161.9845 L117.9402,206.1735" id="Fill-44"></path>
+                    <path d="M146.5552,161.9845 L117.9402,206.1735" id="Stroke-45"></path>
+                    <path d="M118.7593,204.9113 L75.0763,186.5633" id="Fill-47"></path>
+                    <path d="M118.7593,204.9113 L75.0763,186.5633" id="Stroke-48"></path>
+                    <path d="M75.0762,186.5636 L20.8842,162.2916" id="Fill-50"></path>
+                    <path d="M75.0762,186.5636 L20.8842,162.2916" id="Stroke-51"></path>
+                    <path d="M59.1392,137.5363 L75.0762,186.5633" id="Fill-53"></path>
+                    <path d="M59.1392,137.5363 L75.0762,186.5633" id="Stroke-54"></path>
+                    <path d="M75.0762,186.5636 L146.5552,161.9846" id="Fill-56"></path>
+                    <path d="M75.0762,186.5636 L146.5552,161.9846" id="Stroke-57"></path>
+                    <path d="M146.5552,161.9845 L59.1392,137.5365" id="Fill-59"></path>
+                    <path d="M146.5552,161.9845 L59.1392,137.5365" id="Stroke-60"></path>
+                    <path d="M103.8135,103.6709 L146.5555,161.9849" id="Fill-62"></path>
+                    <path d="M103.8135,103.6709 L146.5555,161.9849" id="Stroke-63"></path>
+                    <path d="M146.5552,161.9845 L152.0492,104.2105" id="Fill-65"></path>
+                    <path d="M146.5552,161.9845 L152.0492,104.2105" id="Stroke-66"></path>
+                    <path d="M152.0495,104.2098 L103.8135,103.6708 L152.0495,104.2098 Z" id="Fill-68"></path>
+                    <path d="M103.8135,103.6709 L152.0495,104.2099" id="Stroke-69"></path>
+                    <path d="M152.1939,104.5763 L205.9789,99.7373" id="Fill-70"></path>
+                    <path d="M152.1939,104.5763 L205.9789,99.7373" id="Stroke-71"></path>
+                    <path d="M152.0494,104.2101 L171.4894,55.8131" id="Fill-73"></path>
+                    <path d="M152.0494,104.2101 L171.4894,55.8131" id="Stroke-74"></path>
+                    <path d="M120.7388,55.8131 L152.0498,104.2101" id="Fill-76"></path>
+                    <path d="M120.7388,55.8131 L152.0498,104.2101" id="Stroke-77"></path>
+                    <path d="M120.7388,55.8131 L103.8138,103.6711" id="Fill-79"></path>
+                    <path d="M120.7388,55.8131 L103.8138,103.6711" id="Stroke-80"></path>
+                    <path d="M132.609,19.2433 L103.563,1.7623" id="Fill-82"></path>
+                    <path d="M132.609,19.2433 L103.563,1.7623" id="Stroke-83"></path>
+                    <path d="M132.609,19.2433 L141.852,6.0923" id="Fill-85"></path>
+                    <path d="M132.609,19.2433 L141.852,6.0923" id="Stroke-86"></path>
+                    <path d="M0.5606,104.2098 L15.8656,103.6708 L0.5606,104.2098 Z" id="Fill-88"></path>
+                    <path d="M15.8658,103.6709 L0.5608,104.2099" id="Stroke-89"></path>
+                    <path d="M75.0762,186.5636 L66.4682,198.5296" id="Fill-91"></path>
+                    <path d="M75.0762,186.5636 L66.4682,198.5296" id="Stroke-92"></path>
+                    <path d="M14.0196,52.359 L15.8656,103.671" id="Fill-94"></path>
+                    <path d="M14.0196,52.359 L15.8656,103.671" id="Stroke-95"></path>
+                    <path d="M146.5552,161.9845 L199.5862,137.5195" id="Fill-97"></path>
+                    <path d="M146.5552,161.9845 L199.5862,137.5195" id="Stroke-98"></path>
+                    <path d="M62.8057,43.2437 L59.1397,137.5367" id="Fill-100"></path>
+                    <path d="M62.8057,43.2437 L59.1397,137.5367" id="Stroke-101"></path>
+                    <path d="M15.8658,103.6709 L59.1388,137.5359" id="Fill-103"></path>
+                    <path d="M15.8658,103.6709 L59.1388,137.5359" id="Stroke-104"></path>
+                    <path d="M59.1392,137.5363 L18.6452,162.3973" id="Fill-106"></path>
+                    <path d="M59.1392,137.5363 L18.6452,162.3973" id="Stroke-107"></path>
+                    <path d="M121.1525,56.1939 L172.1525,56.1939 L121.1525,56.1939 Z" id="Fill-109"></path>
+                    <path d="M121.1529,56.1935 L172.1529,56.1935" id="Stroke-110"></path>
+                    <polygon id="Stroke-111" points="199.5865 137.5197 162.9695 188.2687 117.9405 206.1737 66.4675 198.5297 19.1825 162.8317 0.5605 104.2097 14.0195 52.3587 44.6415 19.0767 104.6335 0.5337 141.8525 6.0927 186.7445 45.0447 206.6555 100.4007"></polygon>
+                    <path d="M171.4898,55.8131 L186.7448,45.0451" id="Fill-113"></path>
+                    <path d="M171.4898,55.8131 L186.7448,45.0451" id="Stroke-114"></path>
+                    <path d="M132.609,19.2433 L185.946,45.0453" id="Fill-116"></path>
+                    <path d="M132.609,19.2433 L185.946,45.0453" id="Stroke-117"></path>
+                </g>
+            </g>
+            <g id="Group-2" transform="translate(232.000000, 12.000000)" font-family="Roboto-Light, Roboto" font-weight="300">
+                <text id="OMNI-" font-size="155" fill="#4A4A4A">
+                    <tspan x="0" y="144">OMNI </tspan>
+                </text>
+                <text id="" font-size="122.5" fill="#9B9B9B">
+                    <tspan x="410" y="146.589041">INC</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

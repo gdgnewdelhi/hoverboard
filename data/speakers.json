@@ -91,18 +91,18 @@
     "4": {
         "id": 4,
         "featured": "true",
-        "name": "Nishant Srivastav",
+        "name": "Nishant Srivastava",
         "title": "Co Founder",
-        "company": "OmniLabs",
-        "companyLogo": "/images/logos/gdg-logo.svg",
-        "country": "New Delhi, India",
-        "photoUrl": "/images/people/rustem_arzymbetov.jpg",
-        "shortBio": "",
-        "bio": "",
+        "company": "OmniLabs, Inc",
+        "companyLogo": "/images/logos/omni-logo.svg",
+        "country": "Gurgaon, India",
+        "photoUrl": "/images/people/nishant.jpg",
+        "shortBio": "Software Engineer (3+ yrs experience) working constantly in the field of Android SDK development, Audio Engineering and Interaction Design.",
+        "bio": "Software Engineer (3+ yrs experience) working constantly in the field of Android SDK development, Audio Engineering and Interaction Design. Avid dreamer, doodler and a caffeine dependent life-form. Keen observer of interfaces and their design. FOSS lover. Recommended by 4 out of 5 people that recommend things.",
         "tags": [
-            "Cloud",
+            "Android",
             "Performance",
-            "TensorFlow"
+            "UI/UX"
         ],
         "badges": [
 

@@ -31,8 +31,13 @@
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+nisrulz",
+            "link": "https://plus.google.com/u/0/+NishantSrivastava26",
             "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/NishantRulez",
+            "name": "Facebook"
           },
           {
             "icon": "twitter",
