@@ -6,13 +6,8 @@
         "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
-        "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "DfMnJAzOFng",
-          "text": "See how it was in 2015"
-        },
         "hideLogo": true,
-        "minHeight": "360px"
+        "minHeight": "380px"
       }
     },
     "blog": {
@@ -73,21 +68,15 @@
       "permalink": "/team/"
     }
   ],
-  "url": "https://hoverboard.firebaseapp.com/",
-  "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+  "tickets": {
+    "url": "https://goo.gl/ynihTm"
   },
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
+  "partnershipProposition": "mailto:gdgnewdelhi@gmail.com",
   "disqusShortName": "hoverboard-gdg-x",
   "languages": [
     {
       "name": "English",
       "key": "en"
-    },
-    {
-      "name": "Українська",
-      "key": "uk"
     }
   ],
   "footerBlocks": [
@@ -108,18 +97,8 @@
           "newTab": true
         },
         {
-          "text": "df-13",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "text": "df-14",
-          "url": "http://devfest.gdg.org.ua/2014/",
-          "newTab": true
-        },
-        {
           "text": "df-15",
-          "url": "http://devfest.gdg.org.ua/2015/",
+          "url": "https://www.facebook.com/events/1653149901635099",
           "newTab": true
         }
       ]
@@ -129,12 +108,12 @@
       "links": [
         {
           "text": "partnership-proposition",
-          "url": "http://bit.ly/df16-sponsor",
+          "url": "mailto:gdgnewdelhi@gmail.com",
           "newTab": true
         },
         {
           "text": "media-kit",
-          "url": "http://bit.ly/df16-media",
+          "url": "mailto:gdgnewdelhi@gmail.com",
           "newTab": true
         }
       ]
@@ -143,39 +122,8 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
-      }
-    ]
-  },
-  "tickets": {
-    "url": "http://2event.com/events/630032",
-    "elements": [
-      {
-        "name": "student-ticket",
-        "price": 500,
-        "currency": "₴",
-        "starts": "student-ticket-starts",
-        "ends": "student-ticket-ends",
-        "info": "student-ticket-info",
-        "soldOut": false
-      },
-      {
-        "name": "early-ticket",
-        "price": 750,
-        "currency": "₴",
-        "starts": "early-ticket-starts",
-        "ends": "early-ticket-ends",
-        "info": "early-ticket-info",
-        "soldOut": true
-      },
-      {
-        "name": "lazy-ticket",
-        "price": 1000,
-        "currency": "₴",
-        "starts": "lazy-ticket-starts",
-        "ends": "lazy-ticket-ends",
-        "soldOut": false
+        "text": "gdgnewdelhi@gmail.com",
+        "url": "mailto:gdgnewdelhi@gmail.com"
       }
     ]
   },
@@ -183,48 +131,39 @@
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 600,
+      "counter": 250,
       "caption": "attendees"
     },
     {
-      "counter": 2,
-      "caption": "days"
-    },
-    {
-      "counter": 30,
+      "counter": 12,
       "caption": "sessions"
     },
     {
-      "counter": 3,
+      "counter": 4,
       "caption": "tracks"
     }
   ],
-  "hashtag": "dfua",
+  "hashtag": "DFND",
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "GDG New Delhi",
+      "url": "https://twitter.com/gdg_nd"
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "114576537688641864561",
+      "url": "https://plus.google.com/114576537688641864561"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
-    },
-    {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "GDG New Delhi",
+      "url": "https://www.facebook.com/gdgnewdelhi"
     }
   ],
   "tweetsSource": "/data/tweets.json",
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://www.facebook.com/gdgnewdelhi/photos/?tab=album&album_id=485079498329838",
     "photos": {
       "big": "/images/backgrounds/2015_1.jpg",
       "small": [
@@ -235,25 +174,21 @@
   },
   "location": {
     "apiKey": "",
-    "link": "https://www.facebook.com/expopivdennij",
+    "link": "https://www.facebook.com/codingninjas",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 15
+      "latitude": 28.6975018,
+      "longitude": 77.1405608,
+      "zoom": 18
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 28.6975906,
+      "longitude": 77.1412871
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
       "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
+      "/images/backgrounds/location_3.jpg",
+      "/images/backgrounds/location_4.jpg"
     ]
-  },
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
-  "callToAction": {
-    "videoTitle": "action-title",
-    "videoId": "DfMnJAzOFng"
   }
 }

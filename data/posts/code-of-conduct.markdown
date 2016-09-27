@@ -10,4 +10,4 @@ If someone is bothering you, please tell GDG Organizers immediately and they wil
 
 #### Contacts:
 
-- Oleh Zasadnyy, +38 093 48 66 460, [oleh.zasadnyy@gdg.org.ua](mailto:oleh.zasadnyy@gdg.org.ua)
+- Rohan Arora, +91 9971101886, [rohanraarora@gmail.com](mailto:rohanraarora@gmail.com)
