@@ -2,7 +2,7 @@
   "pages": {
     "home": {
       "headerSettings": {
-        "backgroundColor": "#4d90fe",
+        "backgroundColor": "#8c24e4",
         "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
