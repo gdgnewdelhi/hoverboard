@@ -145,8 +145,8 @@
         "companyLogo": "/images/logos/kvsc.png",
         "country": "New Delhi, India",
         "photoUrl": "/images/people/arpan.jpg",
-        "shortBio": "",
-        "bio": "",
+        "shortBio": "Working as a lead software developer with Kalpavriksh Healthcare. Specializing in web development using Django, Ruby on Rails and front end technologies including HTML, CSS and JavaScript. ",
+        "bio": "Working as a lead software developer with Kalpavriksh Healthcare. Specializing in web development using Django, Ruby on Rails and front end technologies including HTML, CSS and JavaScript. ",
         "tags": [
             "Web",
             "Polymer",
@@ -211,8 +211,8 @@
         "companyLogo": "/images/logos/gdg-logo.svg",
         "country": "New Delhi, India",
         "photoUrl": "/images/people/kshitij.jpg",
-        "shortBio": "",
-        "bio": "",
+        "shortBio": "Android Developer, Mentor, Speaker and Amateur Photographer",
+        "bio": "Android Developer, Mentor, Speaker and Amateur Photographer",
         "tags": [
             "Android",
             "Design Patterns"
@@ -316,8 +316,8 @@
     "13": {
         "id": 13,
         "featured": "false",
-        "name": "",
-        "title": "",
+        "name": "Jaswant Sindhu",
+        "title": "JavaScript Expert",
         "company": "JS Lovers",
         "companyLogo": "/images/logos/js.svg",
         "country": "New Delhi, India",

@@ -1,16 +1,5 @@
 [
   {
-    "title": "template-creator",
-    "logos": [
-      {
-        "name": "GDG Lviv",
-        "url": "https://plus.google.com/102444623953913144164",
-        "logoUrl": "../images/logos/gdg-lviv.svg",
-        "width": 170
-      }
-    ]
-  },
-  {
     "title": "general-partner",
     "logos": [
       {
@@ -22,6 +11,11 @@
         "name": "Coding Ninjas",
         "url": "https://codingninjas.in",
         "logoUrl": "../images/logos/codingninjas-logo.png"
+      },
+      {
+        "name": "Sheroes",
+        "url": "https://sheroes.in",
+        "logoUrl": "../images/logos/sheroes.png"
       }
     ]
   }

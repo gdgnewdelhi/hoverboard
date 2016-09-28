@@ -136,7 +136,7 @@
     "11": {
         "id": 11,
         "title": "Know your Element (Polymer)",
-        "description": "In Progress",
+        "description": "IWe will go through the concept of Polymer briefly and jump to using one of the elements from the catalog. Finally we will make an attempt to create our own Polymer.",
         "speakers": [
             6
         ],

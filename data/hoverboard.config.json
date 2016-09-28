@@ -2,11 +2,11 @@
   "pages": {
     "home": {
       "headerSettings": {
-        "backgroundColor": "#FF9800",
+        "backgroundColor": "#4d90fe",
         "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
-        "hideLogo": true,
+        "hideLogo": false,
         "minHeight": "380px"
       }
     },
