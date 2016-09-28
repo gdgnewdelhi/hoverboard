@@ -167,14 +167,14 @@
     },
     "137": {
         "id": 137,
-        "title": "Afterparty & Networking",
-        "description": "Afterparty is a great time to have some fun and meet new people",
+        "title": "Networking and OpenHouse",
+        "description": "Networking and OpenHouse is a great time to have some fun and meet new people",
         "image": "/images/backgrounds/party.jpg"
     },
     "136": {
         "id": 136,
-        "title": "Google EcoSystems",
-        "description": "",
+        "title": "Keynote/Google EcoSystems",
+        "description": "Overview of Google's Developer and Startup EcoSystems",
         "speakers": [
             3
         ],

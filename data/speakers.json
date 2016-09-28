@@ -71,8 +71,8 @@
         "companyLogo": "/images/logos/google.svg",
         "country": "Bangalore, India",
         "photoUrl": "/images/people/akash.jpg",
-        "shortBio": "",
-        "bio": "",
+        "shortBio": "Akash has been supporting startup ecosystem for Google.",
+        "bio": "He has been handling startups for Google in India.",
         "tags": [
             "Developers Relations"
         ],
@@ -109,6 +109,11 @@
         ],
         "socials": [
             {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/nisrulz"
+            },
+            {
                 "icon": "facebook",
                 "name": "Facebook",
                 "link": "https://www.facebook.com/NishantRulez"
@@ -119,13 +124,13 @@
         "id": 5,
         "featured": "true",
         "name": "Rohit Gupta",
-        "title": "",
+        "title": "Cloud Solution Engineer at Google",
         "company": "Google",
         "companyLogo": "/images/logos/google.svg",
         "country": "Bangalore, India",
         "photoUrl": "/images/people/rohit.jpg",
-        "shortBio": "",
-        "bio": "",
+        "shortBio": "Rohit protect Google's users and defend Google's integrity by fighting spam, fraud and abuse across Google products",
+        "bio": "Rohit protect Google's users and defend Google's integrity by fighting spam, fraud and abuse across Google products. His team ensures product quality for the company's expanding base of advertisers, publishers and users.",
         "tags": [
             "Google Cloud"
         ],
@@ -185,13 +190,13 @@
         "id": 8,
         "featured": "true",
         "name": "Harsh Dattani",
-        "title": "",
+        "title": "Android Security Engineer",
         "company": "Google",
         "companyLogo": "/images/logos/google.svg",
         "country": "Gurgaon, India",
         "photoUrl": "/images/people/harsh.jpg",
-        "shortBio": "",
-        "bio": "",
+        "shortBio": "Harsh handles security for android platform for Google",
+        "bio": "Harsh handles security for android platform for Google",
         "tags": [
             "Android"
         ],
@@ -316,12 +321,12 @@
     "13": {
         "id": 13,
         "featured": "false",
-        "name": "Jaswant Sindhu",
+        "name": "Jaswant Sandhu",
         "title": "JavaScript Expert",
         "company": "JS Lovers",
         "companyLogo": "/images/logos/js.svg",
         "country": "New Delhi, India",
-        "photoUrl": "/images/people/a.jpg",
+        "photoUrl": "/images/people/jaswant.jpg",
         "shortBio": "",
         "bio": "",
         "tags": [
@@ -331,7 +336,11 @@
 
         ],
         "socials": [
-
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/jaswantsandhu"
+            }
         ]
     }
 }

@@ -8,19 +8,13 @@
     }, {
         "title": "Python Room"
     }, {
-        "title": "iOS Room"
+        "title": "Ruby Room"
     }],
     "timeslots": [{
         "startTime": "10:00",
         "endTime": "10:45",
         "sessions": [
             [132]
-        ]
-    },{
-        "startTime": "10:45",
-        "endTime": "11:05",
-        "sessions": [
-            [139]
         ]
     }, {
         "startTime": "11:00",
