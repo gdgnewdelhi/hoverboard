@@ -86,8 +86,6 @@
         line-height: 1;
       }
 
-
-
       .action-buttons {
         margin-top: 40px;
       }
@@ -95,6 +93,18 @@
       paper-button {
         font-size: 0.8em;
         color: #fff;
+      }
+
+      .open-video {
+        @apply(--layout-horizontal);
+        @apply(--layout-center);
+        margin-top: 20px;
+        cursor: pointer;
+        font-size: 16px;
+      }
+
+      .open-video iron-icon {
+        margin-right: 5px;
       }
 
       @media (min-width: 601px) {
@@ -123,13 +133,12 @@
                           alt="GDG DevFest Ukraine 2016"></iron-image>
               <h3 class="dates">{{localize('dates')}}</h3>
               <h2 class="motto">{{localize('motto')}}</h2>
-              <a style="color: #fff" href="https://www.facebook.com/gdgnewdelhi/photos/?tab=album&album_id=485079498329838">
-
-                <h2 class="motto">{{localize('play-icon')}}</a>
-
-            </a>
+              <div class="open-video" on-tap="_openVideo">
+                <iron-icon icon="play"></iron-icon>
+                {{localize('play-icon')}}
+              </div>
               <div class="action-buttons">
-                <paper-button class="primary" on-tap="_openRegistrationForm"raised>{{localize('buy-ticket')}}</paper-button>
+                <paper-button class="primary" on-tap="_scrollToTickets" raised>{{localize('buy-ticket')}}</paper-button>
               </div>
             </div>
           </div>
@@ -190,10 +199,19 @@
           }
         },
 
-        _openRegistrationForm: function () {
-          HOVERBOARD.Analytics.trackEvent('ticket', 'buy_click', 'header');
-          window.open('https://goo.gl/ynihTm', '_blank');
+        _openVideo: function () {
+          HOVERBOARD.Elements.Template.openVideo(this.app.data.pages.home.headerSettings.video.title,
+            this.app.data.pages.home.headerSettings.video.youtubeId, true);
+          HOVERBOARD.Analytics.trackEvent('video', 'watch', this.app.data.pages.home.headerSettings.video.title);
+        },
 
+        _scrollToTickets: function () {
+          HOVERBOARD.Analytics.trackEvent('ticket', 'buy_click', 'header');
+          Polymer.AppLayout.scroll({
+            top: HOVERBOARD.Elements.Tickets.getBoundingClientRect().top,
+            behavior: 'smooth',
+            target: HOVERBOARD.Elements.Scroller
+          });
         }
 
       });

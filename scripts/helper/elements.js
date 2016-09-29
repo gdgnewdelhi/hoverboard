@@ -22,6 +22,6 @@ HOVERBOARD.Elements = (function () {
   }
 
   return {
-    init
+    init: init
   };
 }());
