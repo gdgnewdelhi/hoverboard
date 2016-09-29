@@ -46,6 +46,28 @@
           }
         ],
         "title": "Organizer"
+      },
+       {
+        "name": "Chhavi P. Gupta",
+        "photoUrl": "/images/people/chhavi.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+chhaviguptap",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/wayless.wind",
+            "name": "Facebook"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/chhavip04",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Organizer"
       }
     ]
   },
