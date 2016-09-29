@@ -203,6 +203,11 @@
 
         ],
         "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/ntk_agrwl"
+            }
 
         ]
     },
@@ -265,7 +270,7 @@
         "name": "Chhavi Gupta",
         "title": "Summer Intern 2016",
         "company": "",
-        "companyLogo": "/images/logos/google.svg",
+        "companyLogo": "",
         "country": "New Delhi, India",
         "photoUrl": "/images/people/chhavi.jpg",
         "shortBio": "Software Engineering Intern, Summer 2016 at Google and Mentor for Google Summer Of Code...",
