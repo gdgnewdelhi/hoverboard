@@ -109,6 +109,16 @@
         ],
         "socials": [
             {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/nisrulz"
+            },
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/nisrulz"
+            },
+            {
                 "icon": "github",
                 "name": "GitHub",
                 "link": "https://github.com/nisrulz"
@@ -138,6 +148,11 @@
 
         ],
         "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/RohitforCloud"
+            }
 
         ]
     },
@@ -161,6 +176,11 @@
 
         ],
         "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/ankushsingla"
+            }
 
         ]
     },
@@ -190,13 +210,13 @@
         "id": 8,
         "featured": "true",
         "name": "Harsh Dattani",
-        "title": "Android Security Engineer",
+        "title": "University Program Manager at Google",
         "company": "Google",
         "companyLogo": "/images/logos/google.svg",
         "country": "Gurgaon, India",
         "photoUrl": "/images/people/harsh.jpg",
-        "shortBio": "Harsh handles security for android platform for Google",
-        "bio": "Harsh handles security for android platform for Google",
+        "shortBio": "Harsh is a Post Graduate in Cyber Security with experience in Application development and Electronics as a background.",
+        "bio": "Loves talking a lot from technical to politics, also a learner by end of day. Post Graduate in Cyber Security with experience in Application development and Electronics as a background. Currently working as a Program Coordinator. Also had a association with GDGs as an attendee and a speaker of Android and Security.",
         "tags": [
             "Android"
         ],
@@ -204,6 +224,11 @@
 
         ],
         "socials": [
+              {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/dattaniharsh"
+            }
 
         ]
     },
@@ -226,6 +251,11 @@
 
         ],
         "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/funkyidol"
+            }
 
         ]
     },
@@ -234,7 +264,7 @@
         "featured": "false",
         "name": "Chhavi Gupta",
         "title": "Summer Intern 2016",
-        "company": "Google",
+        "company": "",
         "companyLogo": "/images/logos/google.svg",
         "country": "New Delhi, India",
         "photoUrl": "/images/people/chhavi.jpg",
@@ -300,6 +330,7 @@
         "bio": "Participated and completed GSoC 2015 and 2016 with FOSSASIA. Final year Undergraduate from IIIT Delhi.",
         "tags": [
             "GSoC",
+            "Android",
             "Git"
         ],
         "badges": [
