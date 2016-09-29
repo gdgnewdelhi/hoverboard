@@ -36,7 +36,7 @@ from [GDG Lviv](http://lviv.gdg.org.ua/).
 
 Install [polymer-cli](https://github.com/Polymer/polymer-cli):
 
-    npm i -g polymer-cli@0.12.0
+    npm i -g polymer-cli
     
 and [Bower](https://bower.io/):
     
@@ -74,6 +74,16 @@ H2/push-compatible servers or to clients that do not support H2/Push.
     
 :book: Read more in [deploy docs](/docs/tutorials/deploy.md).   
 
+### Updating
+Here is a git workflow for updating your fork (or downloaded copy) to the latest version:
+```
+git remote add upstream https://github.com/gdg-x/hoverboard.git
+git fetch upstream
+git merge upstream/master # OR git merge upstream/develop
+# resolve the merge conflicts in your editor
+git add . -u
+git commit -m 'Updated to the latest version'
+```
 
 ### Who uses the template?
 
@@ -93,6 +103,9 @@ pull request, so we can include you in this list.
 | [GDG Bingham University Website](http://bhu.gdg.ng) |
 | [Google I/O Extended 2016 Kuala Lumpur](https://ioxkl2016.firebaseapp.com) |
 | [GDG DevFest Hamburg 2016](https://hamburg.devfest.de) |
+| [GDG DevFest Mezam 2016](https://devfest-mezam.gdgbambili.xyz) |
+| [GDG DevFest Vietnam 2016](https://devfest.vn) |
+| [GDG DevFest Seattle 2016](https://devfest.gdgseattle.org) |
 
 ### Roadmap :rocket:
 :x: Admin panel  
