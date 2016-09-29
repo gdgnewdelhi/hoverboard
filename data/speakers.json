@@ -197,7 +197,7 @@
         "bio": "Computer Science graduate 2016 from Netaji Subhas Institute of Technology, Software Developer at Adobe Systems Inc. Student Mentor 2016 at LearnIT, Girl! and Product Intern, Summer 2015 at Adobe Systems Inc. Anita Borg Scholar for attending Grace Hopper Celebration India 2015",
         "tags": [
             "Web",
-            "Progressive Web Apps"
+            "WebRTC"
         ],
         "badges": [
 
@@ -207,8 +207,12 @@
                 "icon": "twitter",
                 "name": "Twitter",
                 "link": "https://twitter.com/ntk_agrwl"
+            },
+             {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/NitikaAgarwal"
             }
-
         ]
     },
     "8": {
@@ -363,8 +367,8 @@
         "companyLogo": "/images/logos/js.svg",
         "country": "New Delhi, India",
         "photoUrl": "/images/people/jaswant.jpg",
-        "shortBio": "",
-        "bio": "",
+        "shortBio": "Jaswant has 10+ years of experience in web and mobile development",
+        "bio": "Jaswant has 10+ years of experience in web and mobile development.He has experience in working on front-end technology stack - HTML, CSS, Javascript, jQuery, Angularjs1/2, typescript, nodejs, Ajax, Web templates, gulpjs, and much more",
         "tags": [
             "Angular"
         ],
@@ -372,10 +376,15 @@
 
         ],
         "socials": [
+             {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/jaswant-sandhu"
+            },
             {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/jaswantsandhu"
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/jaswantsandhu"
             }
         ]
     }
