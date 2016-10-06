@@ -2,9 +2,11 @@
     "1": {
         "id": 1,
         "title": "Bring Your “XX” Factor Out : Building Communities that Impact",
-        "description": "Aim for the day would be to appeal and provide guidance on how the audience can give back to the community. In absolution, the topic is relevant to all tech enthusiasts who are looking at enhancing their own set of skills and impacting others in the process. Considering the set of tools provided, students currently studying in engineering colleges or people at an early career point will be able to take most action afterwards",
+        "description": "Aim for the day would be to appeal and provide guidance on how the audience can give back to the community. In absolution, the topic is relevant to all tech enthusiasts who are looking at enhancing their own set of skills and impacting others in the process. Considering the set of tools provided, students currently studying in engineering colleges or people at an early career point will be able to take most action afterwards. The session would also cover Mentor's perspective for GSOC.",
         "speakers": [
             10
+        ],
+        "prerequisites":[
         ],
         "language": "English",
         "complexity": "Beginner",
@@ -15,14 +17,17 @@
     "2": {
         "id": 2,
         "title": "Mastering your tools for Android",
-        "description": "Hands on session.",
+        "description": "Hands on session to increase your productivity while developing andorid apps",
         "speakers": [
             4
+        ],
+         "prerequisites":[
+            "Laptop (Charged)", "Android Studio", "Android SDK"
         ],
         "language": "English",
         "complexity": "Intermediate",
         "tags": [
-          "Android", "Codelab"
+          "Android", "Codelab", "Android Studio"
         ]
     },
     "3": {
@@ -31,6 +36,9 @@
         "description": "Progressive Web Applications take advantage of new technologies to bring the best of mobile sites and native applications to users. In this session , we will learn about PWA as well as will get our hands in code too.",
         "speakers": [
             2
+        ],
+        "prerequisites":[
+            "Laptop (Charged)", "Knowledge of HTML, CSS, JS", "Github Account"
         ],
         "language": "English",
         "complexity": "Beginner",
@@ -41,9 +49,12 @@
     "4": {
         "id": 4,
         "title": "Angular 2",
-        "description": "In Progress",
+        "description": "Learn about Angular 2",
         "speakers": [
             13
+        ],
+        "prerequisites":[
+            "Laptop (Charged)", "Knowledge of HTML,CSS,JS"
         ],
         "language": "English",
         "complexity": "Beginner",
@@ -58,6 +69,9 @@
         "speakers": [
             11,12
         ],
+        "prerequisites":[
+            "Laptop (Charged)", "Come prepared with your questions for this session"
+        ],
         "language": "English",
         "complexity": "Beginner",
         "tags": [
@@ -67,9 +81,12 @@
     "6": {
         "id": 6,
         "title": "Realtime Communication with WebRTC",
-        "description": "In Progress",
+        "description": "Learn about building your first realtime communication web app using WebRTC",
         "speakers": [
             7
+        ],
+        "prerequisites":[
+            "Laptop (Charged)", "NodeJS", "Knowledge of HTML,CSS, JS and programming logic"
         ],
         "language": "English",
         "complexity": "Intermediate",
@@ -80,9 +97,12 @@
     "7": {
         "id": 7,
         "title": "TensorFlow for poets",
-        "description": "In Progress",
+        "description": "Kickstart machine learning using TensorFlowPrerequisites for the session",
         "speakers": [
             1
+        ],
+        "prerequisites":[
+            "Laptop (Charged)", "Unix based system (Linux/MacOSX)"
         ],
         "language": "English",
         "complexity": "Advanced",
@@ -93,10 +113,13 @@
     },
     "8": {
         "id": 8,
-        "title": "Developing Secure Android Application",
-        "description": "TBD",
+        "title": "This, That and Firebase",
+        "description": "Introduction to Firebase with focus on realtime database and A/B testing using Remote Config",
         "speakers": [
             8
+        ],
+        "prerequisites":[
+            "Laptop (Charged)", "Android Studio", "Firebase"
         ],
         "language": "English",
         "complexity": "Intermediate",
@@ -108,9 +131,12 @@
     "9": {
         "id": 9,
         "title": "Containers at Google and architecting with Kubernetes",
-        "description": "In Progress",
+        "description": "Learn about containers and Kubernetes",
         "speakers": [
             5
+        ],
+        "prerequisites":[
+            "Laptop (Charged)", "Knowledge of Cloud"
         ],
         "language": "English",
         "complexity": "Intermediate",
@@ -122,9 +148,12 @@
     "10": {
         "id": 10,
         "title": "MVP: Moving your code from Android to Java",
-        "description": "In Progress",
+        "description": "Learn about architecting your Android apps the clean way, using MVP architecture",
         "speakers": [
             9
+        ],
+        "prerequisites":[
+            "Laptop (Charged)", "Android Studio", "Android SDK"
         ],
         "language": "English",
         "complexity": "Intermediate",
@@ -136,9 +165,12 @@
     "11": {
         "id": 11,
         "title": "Know your Element (Polymer)",
-        "description": "IWe will go through the concept of Polymer briefly and jump to using one of the elements from the catalog. Finally we will make an attempt to create our own Polymer.",
+        "description": "IWe will go through the concept of Polymer briefly and jump to using one of the elements from the catalog. Finally we will make an attempt to create our own Polymer",
         "speakers": [
             6
+        ],
+        "prerequisites":[
+            "Laptop (Charged)", "Knowledge of HTML,CSS, JS"
         ],
         "language": "English",
         "complexity": "Beginner",

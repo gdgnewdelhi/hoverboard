@@ -18,18 +18,15 @@
         "badges": [
 
         ],
-        "socials": [
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/ankushsingla"
-            },
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/asingla"
-            }
-        ]
+        "socials": [{
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/ankushsingla"
+        }, {
+            "icon": "facebook",
+            "name": "Facebook",
+            "link": "https://www.facebook.com/asingla"
+        }]
     },
     "2": {
         "id": 2,
@@ -49,18 +46,15 @@
         "badges": [
 
         ],
-        "socials": [
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/nehha"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/hellonehha"
-            }
-        ]
+        "socials": [{
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/nehha"
+        }, {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/hellonehha"
+        }]
     },
     "3": {
         "id": 3,
@@ -107,28 +101,23 @@
         "badges": [
 
         ],
-        "socials": [
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/nisrulz"
-            },
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/nisrulz"
-            },
-            {
-                "icon": "github",
-                "name": "GitHub",
-                "link": "https://github.com/nisrulz"
-            },
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/NishantRulez"
-            }
-        ]
+        "socials": [{
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/nisrulz"
+        }, {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/nisrulz"
+        }, {
+            "icon": "github",
+            "name": "GitHub",
+            "link": "https://github.com/nisrulz"
+        }, {
+            "icon": "facebook",
+            "name": "Facebook",
+            "link": "https://www.facebook.com/NishantRulez"
+        }]
     },
     "5": {
         "id": 5,
@@ -147,8 +136,7 @@
         "badges": [
 
         ],
-        "socials": [
-            {
+        "socials": [{
                 "icon": "linkedin",
                 "name": "LinkedIn",
                 "link": "https://www.linkedin.com/in/RohitforCloud"
@@ -175,8 +163,7 @@
         "badges": [
 
         ],
-        "socials": [
-            {
+        "socials": [{
                 "icon": "linkedin",
                 "name": "LinkedIn",
                 "link": "https://www.linkedin.com/in/ankushsingla"
@@ -202,44 +189,46 @@
         "badges": [
 
         ],
-        "socials": [
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/ntk_agrwl"
-            },
-             {
-                "icon": "github",
-                "name": "GitHub",
-                "link": "https://github.com/NitikaAgarwal"
-            }
-        ]
+        "socials": [{
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/ntk_agrwl"
+        }, {
+            "icon": "github",
+            "name": "GitHub",
+            "link": "https://github.com/NitikaAgarwal"
+        }]
     },
     "8": {
         "id": 8,
         "featured": "true",
-        "name": "Harsh Dattani",
-        "title": "University Program Manager at Google",
-        "company": "Google",
-        "companyLogo": "/images/logos/google.svg",
-        "country": "Gurgaon, India",
-        "photoUrl": "/images/people/harsh.jpg",
-        "shortBio": "Harsh is a Post Graduate in Cyber Security with experience in Application development and Electronics as a background.",
-        "bio": "Loves talking a lot from technical to politics, also a learner by end of day. Post Graduate in Cyber Security with experience in Application development and Electronics as a background. Currently working as a Program Coordinator. Also had a association with GDGs as an attendee and a speaker of Android and Security.",
+        "name": "Adhish.",
+        "title": "Head of Products at Truelancer",
+        "company": "Truelancer",
+        "companyLogo": "/images/logos/truelancer.png",
+        "country": "New Delhi, India",
+        "photoUrl": "/images/people/adhish.jpg",
+        "shortBio": "Adhish is a Technical Entrepreneurhaving more than 5+ years of experience in the design and development of mobile, web, wearables and desktop apps.",
+        "bio": "Adhish is a Technical Entrepreneurhaving more than 5+ years of experience in the design and development of mobile, web, wearables and desktop apps. Has got vast exposure working on technologies like Android, iOS, .NET, JSON RESTful APIs, Databases, Node.JS, JavaScript, Java, PHP and jQuery. He has also worked with Microsoft and Google. Currently he is running his own, India based, app development firm - Spiderz Lab Programmers, Truelancer. Adding more, he is also running his own nationally registered and internationally recognised NGO - The Inspirations, which in combination makes him a good manager as well.He loves teaching and have delivered many app development workshops across globe. Not only this, he has keen devotedness towards arts and music. He loves to play various musical instruments, clicking photographs, singing, dancing, reading novels, writing.He is  a active speaker in Google Developers Group too.",
         "tags": [
-            "Android"
+            "Android", "Firebase"
         ],
         "badges": [
 
         ],
-        "socials": [
-              {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/dattaniharsh"
-            }
-
-        ]
+        "socials": [{
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/er_adhish"
+        }, {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://in.linkedin.com/in/adhishlal"
+        }, {
+            "icon": "facebook",
+            "name": "Facebook",
+            "link": "https://www.facebook.com/er.adhish"
+        }]
     },
     "9": {
         "id": 9,
@@ -259,8 +248,7 @@
         "badges": [
 
         ],
-        "socials": [
-            {
+        "socials": [{
                 "icon": "twitter",
                 "name": "Twitter",
                 "link": "https://twitter.com/funkyidol"
@@ -286,13 +274,11 @@
         "badges": [
 
         ],
-        "socials": [
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/wayless.wind"
-            }
-        ]
+        "socials": [{
+            "icon": "facebook",
+            "name": "Facebook",
+            "link": "https://www.facebook.com/wayless.wind"
+        }]
     },
     "11": {
         "id": 11,
@@ -313,18 +299,15 @@
         "badges": [
 
         ],
-        "socials": [
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/daggerdwivedi"
-            },
-            {
-                "icon": "github",
-                "name": "GitHub",
-                "link": "https://github.com/the-dagger"
-            }
-        ]
+        "socials": [{
+            "icon": "facebook",
+            "name": "Facebook",
+            "link": "https://www.facebook.com/daggerdwivedi"
+        }, {
+            "icon": "github",
+            "name": "GitHub",
+            "link": "https://github.com/the-dagger"
+        }]
     },
     "12": {
         "id": 12,
@@ -345,18 +328,15 @@
         "badges": [
 
         ],
-        "socials": [
-            {
-                "icon": "github",
-                "name": "GitHub",
-                "link": "https://github.com/mananwason"
-            },
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/manan.wason"
-            }
-        ]
+        "socials": [{
+            "icon": "github",
+            "name": "GitHub",
+            "link": "https://github.com/mananwason"
+        }, {
+            "icon": "facebook",
+            "name": "Facebook",
+            "link": "https://www.facebook.com/manan.wason"
+        }]
     },
     "13": {
         "id": 13,
@@ -375,17 +355,14 @@
         "badges": [
 
         ],
-        "socials": [
-             {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/jaswant-sandhu"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/jaswantsandhu"
-            }
-        ]
+        "socials": [{
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/jaswant-sandhu"
+        }, {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/jaswantsandhu"
+        }]
     }
 }
