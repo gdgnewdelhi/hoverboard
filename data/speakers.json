@@ -202,14 +202,14 @@
     "8": {
         "id": 8,
         "featured": "true",
-        "name": "Adhish.",
+        "name": "Adhish",
         "title": "Head of Products at Truelancer",
         "company": "Truelancer",
         "companyLogo": "/images/logos/truelancer.png",
         "country": "New Delhi, India",
         "photoUrl": "/images/people/adhish.jpg",
-        "shortBio": "Adhish is a Technical Entrepreneurhaving more than 5+ years of experience in the design and development of mobile, web, wearables and desktop apps.",
-        "bio": "Adhish is a Technical Entrepreneurhaving more than 5+ years of experience in the design and development of mobile, web, wearables and desktop apps. Has got vast exposure working on technologies like Android, iOS, .NET, JSON RESTful APIs, Databases, Node.JS, JavaScript, Java, PHP and jQuery. He has also worked with Microsoft and Google. Currently he is running his own, India based, app development firm - Spiderz Lab Programmers, Truelancer. Adding more, he is also running his own nationally registered and internationally recognised NGO - The Inspirations, which in combination makes him a good manager as well.He loves teaching and have delivered many app development workshops across globe. Not only this, he has keen devotedness towards arts and music. He loves to play various musical instruments, clicking photographs, singing, dancing, reading novels, writing.He is  a active speaker in Google Developers Group too.",
+        "shortBio": "Adhish is a Technical Entrepreneur having more than 5+ years of experience in the design and development of mobile, web, wearables and desktop apps.",
+        "bio": "Adhish is a Technical Entrepreneurhaving more than 5+ years of experience in the design and development of mobile, web, wearables and desktop apps. Has got vast exposure working on technologies like Android, iOS, .NET, JSON RESTful APIs, Databases, Node.JS, JavaScript, Java, PHP and jQuery. He has also worked with Microsoft and Google. Currently he is running his own, India based, app development firm - Spiderz Lab Programmers, Truelancer. Adding more, he is also running his own nationally registered and internationally recognised NGO - The Inspirations, which in combination makes him a good manager as well.He loves teaching and have delivered many app development workshops across globe. Not only this, he has keen devotedness towards arts and music. He loves to play various musical instruments, clicking photographs, singing, dancing, reading novels, writing.He is an active speaker in Google Developers Group too.",
         "tags": [
             "Android", "Firebase"
         ],
