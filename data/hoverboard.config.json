@@ -7,19 +7,19 @@
     "dev": "UA-43643469-9"
   },
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv"
+    "name": "GDG New Delhi",
+    "twitter": "gdg_nd"
   },
   "webapp": {
     "shortName": "DevFest",
-    "themeColor": "#F57C00",
-    "backgroundColor": "#F57C00"
+    "themeColor": "#2196F3",
+    "backgroundColor": "#2196F3"
   },
   "firebase": {
-    "name": "hoverboard-master",
-    "domain": "hoverboard-master.firebaseapp.com",
-    "database": "https://hoverboard-master.firebaseio.com",
-    "api": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
+    "name": "gdgnddevfest",
+    "domain": "gdgnddevfest.firebaseapp.com",
+    "database": "https://gdgnddevfest.firebaseio.com/",
+    "api": "AIzaSyDxhKsVHfJJ9pn2awQ295iRs4gdBmIUC5s",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
@@ -32,20 +32,16 @@
     "locale": "en-US",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
-  "hashtag": "dfua",
+  "hashtag": "google",
   "disqusShortName": "hoverboard-gdg-x",
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLIk1LQVa7gE-KDMgf6s3dSgamFCgEQ-p9",
   "enableSessionsRating": true,
   "navigation": [
     {
       "route": "home",
       "permalink": "/"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/"
     },
     {
       "route": "schedule",
@@ -63,52 +59,52 @@
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "gdg_nd",
+      "url": "https://twitter.com/gdg_nd"
     },
     {
       "name": "gplus",
       "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "url": "https://plus.google.com/+GDGNewDelhi"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
+      "nickname": "GDGND",
+      "url": "https://www.facebook.com/gdgnewdelhi"
     },
     {
       "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
+      "nickname": "google-developers-group-newdelhi",
       "url": "https://www.linkedin.com/company/google-developers-group-lviv"
     }
   ],
   "location": {
     "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "name": "Coding Ninja/To The New/ Investopad",
+    "address": "Coding Ninja-Pitampura, To The New-Noida, Investopad-Gurgoan",
     "link": "https://www.facebook.com/expopivdennij",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 15
+      "latitude": 28.535876,
+      "longitude": 77.345759,
+      "zoom": 10
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 28.535876,
+      "longitude": 77.345759
     },
     "images": [
-      "/images/backgrounds/location_1.jpg",
-      "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
+      "/images/backgrounds/cn2.jpg",
+      "/images/backgrounds/investopad.jpg",
+      "/images/backgrounds/tothenew.jpg"
     ]
   },
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://www.facebook.com/pg/gdgnewdelhi/photos/",
     "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
+      "big": "/images/backgrounds/pic3.jpg",
       "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
+        "/images/backgrounds/pic1.jpg",
+        "/images/backgrounds/pic2.jpg"
       ]
     }
   },
@@ -116,13 +112,13 @@
     "home": {
       "title": "Home",
       "headerSettings": {
-        "backgroundColor": "#FF9800",
-        "backgroundImage": "/images/backgrounds/home.png",
+        "backgroundColor": "#2196F3",
+        "backgroundImage": "/images/backgrounds/homewall.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "TdpbgRgz6eE",
+          "title": "GDG DevFest New Delhi 2016",
+          "youtubeId": "P8ZOc1_wE8s",
           "text": "See how it was in 2016"
         },
         "hideLogo": true,

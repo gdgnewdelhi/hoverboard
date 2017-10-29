@@ -107,13 +107,13 @@
         </div>
       </paper-toolbar>
       <div class="content">
-        <paper-fab
+        <!--<paper-fab
           class$="float-button header-action [[fabIcon]]"
           icon="[[fabIcon]]"
           session-id$="[[session.id]]"
-          on-tap="toggleMyScheduleSession"
-          disabled$="[[!online]]"
-        ></paper-fab>
+          on-tap=""
+          disabled$="true"
+        ></paper-fab>-->
 
         <div class="metadata-wrapper">
           <div class="main-info">
@@ -147,7 +147,7 @@
         <marked-element markdown="[[session.description]]">
           <div class="markdown-html"></div>
         </marked-element>
-
+        <!--
         <div class="actions">
           <paper-menu-button class="share-menu" horizontal-align="left" vertical-align="bottom" share-menu>
             <paper-button class="action dropdown-trigger" on-tap="nativeShare">
@@ -173,7 +173,7 @@
               </paper-icon-item>
             </div>
           </paper-menu-button>
-
+        -->
 
           <a href$="[[session.presentation]]" hidden$="[[!session.presentation]]" target="_blank"
              rel="noopener noreferrer">
@@ -190,13 +190,15 @@
             </paper-button>
           </div>
         </div>
-
+        
+        <!--
         {% if enableSessionsRating %}
         <div class="label">{$ rateSession $}</div>
         <rating-element rate={{rate}}
                         disabled$="[[_isRatingDisabled(online, app.user)]]"
                         on-tap="_rate"></rating-element>
         {% endif %}
+        -->
       </div>
 
       <template is="dom-if" if="{{session.speakers.length}}">
